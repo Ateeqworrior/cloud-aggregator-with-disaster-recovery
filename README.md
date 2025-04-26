@@ -46,7 +46,7 @@ Database      -->    	MySQL
 
 Cloud Services   --> 	AWS (CloudEndure), Azure (ASR)
 
-Deployment Tools  --> 	Docker, Kubernetes (optional)
+Deployment Tools  --> 	NGrock(Free Deployment)
 
 Monitoring APIs	  -->  CloudWatch, Azure Monitor
 
